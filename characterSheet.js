@@ -67,7 +67,7 @@ const data = {
     },
     {
       type: 'Poder',
-      amount: 10,
+      amount: 18,
     },
     {
       type: 'Sorte',
